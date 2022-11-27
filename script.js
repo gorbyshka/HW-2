@@ -9,7 +9,7 @@ const subResult = firstConvertion - secondConvertion;
 const divResult = firstConvertion / secondConvertion;
 const multResult = firstConvertion * secondConvertion;
 
-alert('Користувач ввів ' + ': ' + firstNumber + '+' + secondNumber + '=' + addResult);
-alert('Користувач ввів ' + ': ' + firstNumber + '-' + secondNumber + '=' + subResult);
-alert('Користувач ввів ' + ': ' + firstNumber + '/' + secondNumber + '=' + divResult);
-alert('Користувач ввів ' + ': ' + firstNumber + '*' + secondNumber + '=' + multResult);
+alert(addResult);
+alert(subResult);
+alert(divResult);
+alert(multResult);
